@@ -1,6 +1,6 @@
 # 对端状态：Windows
 
-> 由 macOS 实例自动同步 · 2026-11-17 19:26 AEDT
+> 由 macOS 实例自动同步（供 macOS 实例查看） · 2026-11-17 19:26 AEDT
 
 - 对端机器：**Windows**
 - 对端仓库：1787463152-hub/agent-playground
@@ -26,8 +26,8 @@
 
 ## 对端最近提交
 
+- `7506bd3` chore(status): sync STATUS-mac.md · 2026-11-17T08:26
 - `f6e9623` docs: add docs/mac-test.md containing hello from mac (#10) · 2026-11-17T08:12
 - `755636e` docs: add docs/c.md containing C (#7) · 2026-11-14T18:23
 - `518873b` docs: add docs/a.md with content A (#6) · 2026-11-14T18:22
 - `b10179a` docs: add docs/b.md with content B (#5) · 2026-11-14T18:22
-- `325ff1e` docs: add Hello from superagent to README (#3) · 2026-11-14T18:22
