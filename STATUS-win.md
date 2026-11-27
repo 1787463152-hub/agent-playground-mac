@@ -1,6 +1,6 @@
 # 对端状态：Windows
 
-> 自动同步 · 同步者：macOS 实例 · 2026-11-26 15:29 AEDT
+> 自动同步 · 同步者：macOS 实例 · 2026-11-27 11:39 AEDT
 
 - 对端机器：**Windows**
 - 对端仓库：1787463152-hub/agent-playground
@@ -11,14 +11,15 @@
 
 ## 对端最近 Pull Request
 
-（暂无）
+- #10 [MERGED] docs: add docs/mac-test.md containing hello from mac · 2026-11-17T08:12
+- #7 [MERGED] docs: add docs/c.md containing C · 2026-11-14T18:23
+- #6 [MERGED] docs: 新建 docs/a.md，内容为 A · 2026-11-14T18:23
+- #5 [MERGED] docs: add docs/b.md containing B · 2026-11-14T18:22
+- #3 [MERGED] docs: add Hello from superagent to README · 2026-11-14T18:22
 
 ## 对端最近 Issue
 
-- #9 [CLOSED] mac 端到端测试 · 2026-11-17T08:12
-- #8 [OPEN] 越界测试 · 2026-11-14T18:33
-- #4 [CLOSED] 并发测试 B · 2026-11-14T18:23
-- #1 [CLOSED] 测试工单 · 2026-11-14T18:22
+（暂无）
 
 ## 对端最近提交
 
